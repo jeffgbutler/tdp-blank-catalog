@@ -1,2 +1,1 @@
-# tdp-blank-catalog
-Tanzu Application Platform Developer Portal Blank Catalog
+Sample org structure for application catalog
